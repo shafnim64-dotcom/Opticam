@@ -1,0 +1,6 @@
+{
+  "name": "ProCam 108",
+  "description": "Professional camera app supporting 108MP high-resolution sensors, portrait bokeh, ultra wide-angle, and macro shooting modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
